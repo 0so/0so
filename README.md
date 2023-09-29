@@ -1,4 +1,14 @@
-### Hi there 👋
+```
+- 👋 Hi, I’m
+                  __          ___         
+                 /_ |        / _ \        
+   __ _  __   __  | |  ____ | | | |  _ __ 
+  / _` | \ \ / /  | | |_  / | | | | | '__|
+ | (_| |  \ V /   | |  / /  | |_| | | |   
+  \__,_|   \_/    |_| /___|  \___/  |_|
+
+- 🔭 I’m currently working on ...
+```       
 
 <!--
 **av1z0r/av1z0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
