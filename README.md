@@ -8,7 +8,7 @@
   </pre>
 
 </h5>
-<img align="right" alt="Coding" width="250" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
+<img align="right" alt="Coding" width="177" src="https://kratikal.com/blog/wp-content/uploads/2023/03/coding-typing.gif">
 
 
 
